@@ -1,4 +1,4 @@
-# youtube-focus-v2(manifestV2"Chrome/MicrosoftEdge")
+# youtube-focus-v2(manifestV3"Chrome/MicrosoftEdge")
 
 Hides distracting elements on YouTube to help you focus on content.
 
