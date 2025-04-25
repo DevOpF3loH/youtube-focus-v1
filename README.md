@@ -56,6 +56,7 @@ Focus Extension is your digital bodyguard against YouTube's temptations:
 3. Enable "Developer mode" (toggle in top-right/bottom-left)
 4. Click "Load unpacked" and select where the extension folder is located
 5. The extension will be added in the extensions tab like other extensions
+6. Restart Chrome or Edge for changes to take effect
 6. Toggle "Enable Focus Mode"
 7. Actually accomplish things with your life!
 
