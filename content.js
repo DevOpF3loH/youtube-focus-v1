@@ -26,6 +26,12 @@ function updateFocusMode(enabled) {
       #secondary.style-scope.ytd-watch-flexy {
         display: none !important;
       }
+      .ytp-fullscreen-grid {
+        display: none !important;
+      }
+      #related.style-scope.ytd-watch-flexy {
+        display: none !important;
+      }
     `;
     
     // Remove existing style if it exists
